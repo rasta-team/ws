@@ -125,7 +125,7 @@ systemctl restart wg-quick@wg0
 
 ## Credit :
 
-*   V-Code
+*   DIYVPN
 
 *   Project X
 
