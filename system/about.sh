@@ -42,7 +42,7 @@ figlet " BY  V - Code" | lolcat
 echo -e "\e[32;1m.-----------------------------------------------.\e[0m"
 echo -e "\e[32;1m|               \e[36;1mINFO SCRIPT VPS\e[0m                 \e[32;1m|\e[0m"
 echo -e "\e[32;1m'-----------------------------------------------'\e[0m"
-echo -e "           \e[031;1m> Premium Script By V-Code <\e[0m" | lolcat
+echo -e "           \e[031;1m> Premium Script By DIYVPN <\e[0m" | lolcat
 echo -e " \e[0;32m_______________________________________________\e[0m"
 echo -e "\e[0;32m|    \e[1;35mFor OS Debian 10 & Ubuntu 20.04 64 bit     \e[0;32m|\e[0m"
 echo -e "\e[0;32m|  \e[1;35mFor VPS with KVM and VMWare virtualization   \e[0;32m|\e[0m"
