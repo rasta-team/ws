@@ -275,7 +275,7 @@ echo "   - Auto Delete Expired Account" | tee -a log-install.txt
 echo "   - Full Orders For Various Services" | tee -a log-install.txt
 echo "   - White Label" | tee -a log-install.txt
 echo "   - Installation Log --> /root/log-install.txt"  | tee -a log-install.txt
-echo "-------------------------Script By Virtual-----------------------" | tee -a log-install.txt
+echo "-------------------------Script By DiyVpn-----------------------" | tee -a log-install.txt
 clear
 echo ""
 echo ""
