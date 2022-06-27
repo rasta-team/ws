@@ -58,9 +58,10 @@ systemctl restart wg-quick@wg0
  ## For Buy Script : Contact Telegram @NORULEZZx <a href="https://t.me/Virtual_NW" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
  ## Main Menu
- 
 
-![IMG_20220627_091659](https://user-images.githubusercontent.com/108207883/175843197-b560637a-2730-46c1-bafb-983a7d6103dc.jpg)
+![IMG_20220627_092250_806](https://user-images.githubusercontent.com/108207883/175843517-06b4cea2-8e63-4c28-b325-c6b8e2588425.jpg)
+
+
 
   ## Status Running
  
