@@ -15,10 +15,10 @@ ver=$VERSION_ID
 country="MY"
 state="Sabah"
 locality="Kota Kinabalu"
-organization="@Virtual_NW"
-organizationalunit="@Virtual_NW"
-commonname="v-code"
-email="admin@v-code.xyz"
+organization="@Norulezzx"
+organizationalunit="@Norulezzx"
+commonname="DIY_VPN"
+email="admin@d-vpn.com"
 
 # simple password minimal
 wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/${GitUser}/ws/main/password"
