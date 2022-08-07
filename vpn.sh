@@ -2,7 +2,7 @@
 # Script By V-Code
 # ==================================================
 #wget https://github.com/${GitUser}/
-GitUser="diyglobe"
+GitUser="rasta-team"
 # initialisasi var
 export DEBIAN_FRONTEND=noninteractive
 OS=`uname -m`;
