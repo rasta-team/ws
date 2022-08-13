@@ -2,7 +2,7 @@
 # By V-Code
 # ==================================================
 #wget https://github.com/${GitUser}/
-GitUser="diyglobe"
+GitUser="rasta-team"
 # initializing var
 export DEBIAN_FRONTEND=noninteractive
 MYIP=$(wget -qO- icanhazip.com);

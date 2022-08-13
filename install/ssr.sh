@@ -3,7 +3,7 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
 #wget https://github.com/${GitUser}/
-GitUser="diyglobe"
+GitUser="rasta-team"
 
 sh_ver="1.0.26"
 filepath=$(cd "$(dirname "$0")"; pwd)
